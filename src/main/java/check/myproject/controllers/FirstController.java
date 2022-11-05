@@ -6,8 +6,12 @@ public class FirstController {
 		return 1;
 	}
 	
-	public int SecondFunction(){
+	public double SecondFunction(){
 		return 1;
+	}
+	
+	public String ThridFunction() {
+		return "String";
 	}
 		
 }
